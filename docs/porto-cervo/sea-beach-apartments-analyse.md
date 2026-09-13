@@ -1,6 +1,6 @@
 # Sea & Beach Apartments Porto Cervo – Sichtbarkeits- und Auslastungsanalyse
 
-Stand: 12. September 2026
+Stand: 13. September 2026 (aktualisiert nach Prüfung der vom Betreiber genannten Kanal-Links)
 Objekt: Sea & Beach Apartments Porto Cervo Costa Smeralda (Residenza Sea Smeralda, Cala Granu, Arzachena)
 Website: https://seasmeralda.wixsite.com/beachapartments
 
@@ -9,9 +9,9 @@ Website: https://seasmeralda.wixsite.com/beachapartments
 ## 1. Kernbefund in fünf Sätzen
 
 1. Das Objekt hat ein seltenes Produkt: Apartments direkt am Strand von Cala Granu, mit eigenem Parkplatz, fünf Minuten von Porto Cervo. Das ist in der Costa Smeralda eine echte Rarität und wird derzeit kaum kommuniziert.
-2. Die Sichtbarkeit hängt fast vollständig an Booking.com (Bewertung 8,4). Airbnb, Vrbo und Google werden nicht oder nicht erkennbar systematisch bespielt.
+2. Das Objekt ist auf Booking.com (8,4, aber nur etwa 5 bis 10 Bewertungen), Airbnb, Vrbo/Expedia und Tripadvisor gelistet. Trotzdem tauchen Airbnb-, Expedia- und Tripadvisor-Eintrag in keiner Suchmaschine auf, und das Objekt trägt auf jedem Kanal einen anderen Namen. Es gibt Inserate, aber keine Marke.
 3. Die eigene Website ist eine kostenlose Wix-Subdomain ohne Preise, ohne Kalender, ohne Buchungsfunktion und mit einem falschen Seitentitel („Real Estate Broker | Sardinia Estate & Services“). Sie erzeugt keine Direktbuchungen.
-4. Auf Instagram, Facebook, TikTok und LinkedIn ist kein Account des Objekts auffindbar. Die Social-Media-Präsenz ist null.
+4. Der Instagram-Account @beach_apartments_porto_cervo existiert, ist aber über keine Suchmaschine auffindbar und wird von keinem Portal- oder Website-Eintrag verlinkt. Facebook, TikTok und LinkedIn fehlen ganz. Die Social-Media-Präsenz ist praktisch null.
 5. Der Markt Porto Cervo liegt bei rund 41 % Jahresauslastung und hohen Preisen. Mit Produktschärfung, Portal-Optimierung, Direktbuchungskanal und Nebensaison-Angeboten sind 55 bis 60 % innerhalb von zwölf bis achtzehn Monaten realistisch.
 
 ---
@@ -20,7 +20,7 @@ Website: https://seasmeralda.wixsite.com/beachapartments
 
 Untersucht wurden die Website, die Präsenz auf Booking.com, Airbnb, Vrbo/FeWo-direkt, Tripadvisor und Hotel-Aggregatoren, die Social-Media-Kanäle Instagram, Facebook, TikTok und LinkedIn sowie Marktdaten für Porto Cervo (AirROI), die Regulatorik für Kurzzeitvermietung auf Sardinien und der Eventkalender 2026 der Costa Smeralda.
 
-**Einschränkung:** Die Website, Booking.com, Airbnb, Vrbo und Tripadvisor konnten nicht direkt geladen werden (Netzwerksperre in der Analyseumgebung). Die Aussagen zu diesen Seiten stützen sich auf Suchmaschinen-Snippets, Aggregator-Seiten und Metadaten. Bewertungsanzahl, Fotoanzahl, Belegungskalender und Antwortzeiten konnten daher nicht geprüft werden. Diese Punkte sind im Maßnahmenplan als „zu verifizieren“ markiert.
+**Einschränkung:** Die Website, Booking.com, Airbnb, Vrbo, Expedia, Instagram und Tripadvisor konnten nicht direkt geladen werden (Netzwerksperre in der Analyseumgebung). Das gilt auch für die sechs vom Betreiber genannten Links (Wix-Website, Booking-Eintrag, Airbnb-Inserat 42370101, Instagram @beach_apartments_porto_cervo, Tripadvisor-Eintrag, Expedia-Inserat h59981302). Die Aussagen zu diesen Seiten stützen sich auf Suchmaschinen-Snippets, Aggregator-Seiten und Metadaten. Bewertungsanzahl, Fotoanzahl, Belegungskalender und Antwortzeiten konnten daher nicht geprüft werden. Diese Punkte sind im Maßnahmenplan als „zu verifizieren“ markiert.
 
 ---
 
@@ -56,25 +56,38 @@ Untersucht wurden die Website, die Präsenz auf Booking.com, Airbnb, Vrbo/FeWo-d
 
 | Portal | Status | Details |
 |---|---|---|
-| Booking.com | Aktiv | Name „Sea & Beach Apartments Porto Cervo Costa Smeralda“, Bewertung 8,4. Lob für Lage, Aussicht, Terrasse. Preise laut Aggregatoren 398 bis 538 € pro Nacht. Ausstattung gelistet: Terrasse, Parkplatz, WLAN, Küche mit Geschirrspüler, Privatstrand. Bewertungsanzahl, Foto-Qualität, Genius-Status und Antwortquote nicht prüfbar. |
-| Airbnb | Unklar | Es gibt Inserate in der Residenza Sea Smeralda (u. a. „Appartamento Sun – Cala Granu“, ein 2-SZ-Apartment mit Strandzugang). Ob eines davon vom Betreiber stammt, ist nicht erkennbar. Wenn nicht: Wettbewerb im eigenen Haus, ohne eigene Präsenz. |
-| Vrbo / FeWo-direkt | Vermutlich aktiv | Inserat „Zimmer-Wohnung Sea Smeralda auf dem Meer – Cala Granu“, 1 SZ, bis 4 Personen, Ø ca. 371 € pro Nacht. Passt zur „Bonbonnière“. Bewertungen und Premium-Host-Status nicht prüfbar. |
-| Tripadvisor | Passiv | Eintrag „Sea Smeralda Residence – Apartments“ vorhanden, offenbar für die Residenz insgesamt, ohne erkennbare Pflege. |
+| Booking.com | Aktiv | Name „Sea & Beach Apartments Porto Cervo Costa Smeralda“, Bewertung 8,4. Bewertungsvolumen sehr klein: Trivago zeigt 10 Bewertungen, A-Hotel 84 % aus 5 Bewertungen, also etwa 5 bis 10 Booking-Bewertungen für ein Objekt, das seit mindestens 2019 gelistet ist. Lob für Lage, Aussicht, Terrasse. Preise laut Aggregatoren 398 bis 538 € pro Nacht. Foto-Qualität, Genius-Status und Antwortquote nicht prüfbar. |
+| Airbnb | Aktiv, unsichtbar | Eigenes Inserat existiert (airbnb.it, Nr. 42370101, der ID nach seit etwa Anfang 2020). Es ist in keiner Suchmaschine indexiert und wird von der Website nicht verlinkt. Im selben Haus bzw. derselben Bucht inserieren Dritte: „Appartamento Sun – Cala Granu“ und „Luxurious Seafront · Starlink WiFi · Parking“ (Titel nach Airbnb-Lehrbuch, mit Starlink als Verkaufsargument). Das ist direkte Konkurrenz mit besserer Aufmachung. Bewertung, Superhost-Status und Antwortzeit des eigenen Inserats nicht prüfbar. |
+| Vrbo / Expedia | Aktiv | Inserat „Familienferienwohnung mit Meerblick Porto Cervo Costa Smeralda“ (Expedia-Nr. h59981302, über die Vrbo-Anbindung auch auf Expedia und Hotels.com). Dazu auf FeWo-direkt „Zimmer-Wohnung Sea Smeralda auf dem Meer – Cala Granu“, 1 SZ, bis 4 Personen, Ø ca. 371 € pro Nacht. Beide Inserate sind über Suchmaschinen nicht auffindbar. Bewertungen und Premium-Host-Status nicht prüfbar. |
+| Tripadvisor | Aktiv, leer | Eintrag inzwischen in „Sea & Beach Apartments Porto Cervo Costa Smeralda“ umbenannt, aber null Bewertungen. Ein Tripadvisor-Eintrag ohne Bewertungen wirkt schlechter als gar keiner. |
 | Google | Fehlt | Kein Google-Unternehmensprofil, keine Google-Vacation-Rentals-Anbindung erkennbar. |
 | Aggregatoren | Automatisch | Trivago, Holidaycheck, A-Hotel, Hotelmix, portocervohotels24 spiegeln das Booking-Inserat. Sichtbarkeit dort hängt also allein an Booking-Datenqualität. |
 
-**Fazit Portale:** Ein-Kanal-Abhängigkeit von Booking.com. Die Bewertung 8,4 liegt unter der Schwelle, ab der Booking-Filter („Sehr gut 9+“) und Guest-Favorite-Logiken greifen. Der Wettbewerber „Cala del Faro – Casa di Mare“ (ebenfalls Strandlage, Porto Cervo) steht bei 9,1.
+**Ein Objekt, sechs Namen.** Auf den Kanälen heißt das Objekt jeweils anders:
+
+| Kanal | Name |
+|---|---|
+| Booking.com, Tripadvisor | Sea & Beach Apartments Porto Cervo Costa Smeralda |
+| Booking-URL (alt) | 50 passi al mare appartamento Porto Cervo |
+| Website | Beach Apartments Costa Smeralda / Sea Smeralda / Bonbonnière |
+| Instagram | beach_apartments_porto_cervo |
+| Vrbo / FeWo-direkt | Zimmer-Wohnung Sea Smeralda auf dem Meer |
+| Expedia / Hotels.com | Familienferienwohnung mit Meerblick Porto Cervo Costa Smeralda |
+
+Folge: Ein Gast, der das Objekt auf Booking gesehen hat und es auf Instagram, Google oder Airbnb wiederfinden will, findet es nicht. Bewertungen, Empfehlungen und Suchtreffer verteilen sich auf sechs Identitäten statt auf eine.
+
+**Fazit Portale:** Die Kanäle sind angelegt, aber nicht bewirtschaftet. Drei Engpässe: zu wenige Bewertungen (etwa 5 bis 10 auf Booking, 0 auf Tripadvisor), keine einheitliche Marke, und Inserate, die außerhalb der Portal-Suche unsichtbar sind. Die Bewertung 8,4 liegt zudem unter der Schwelle, ab der Booking-Filter („Sehr gut 9+“) und Guest-Favorite-Logiken greifen. Der Wettbewerber „Cala del Faro – Casa di Mare“ (ebenfalls Strandlage, Porto Cervo) steht bei 9,1.
 
 ### 3.4 Social Media
 
 | Kanal | Befund |
 |---|---|
-| Instagram | Kein Account auffindbar. Der Ort Porto Cervo hat über 78.000 Standort-Posts, der Nachbar-Hotspot „Waterfront Costa Smeralda“ 44.000 Follower. Die Nachfrage nach Bildern aus genau diesem Umfeld ist also hoch. |
+| Instagram | Account @beach_apartments_porto_cervo existiert. Er taucht in keiner Suchmaschine auf, wird weder von der Website noch von einem Portal-Eintrag verlinkt und trägt einen anderen Namen als das Objekt auf Booking. Follower- und Beitragszahl konnten nicht geprüft werden; ein aktiv bespielter Account wäre indexiert. Zum Vergleich: Der Strand selbst (@calagranubeach) hat 2.456 Follower und 104 Beiträge, der Ort Porto Cervo über 78.000 Standort-Posts, „Waterfront Costa Smeralda“ 44.000 Follower. Die Nachfrage nach Bildern aus genau diesem Umfeld ist also hoch. |
 | Facebook | Keine Seite auffindbar. Der Strand selbst hat eine eigene Seite („Cala Granu Beach“). |
 | TikTok | Kein Account. Suchthemen „Porto Cervo Sardinia“, „Beach Club Porto Cervo“ und „Vivere a Porto Cervo“ existieren mit hohem Volumen. |
 | LinkedIn | Kein Unternehmensprofil. Für ein Ferienobjekt nachrangig, aber für Workation-, Retreat- und Firmenbuchungen nutzbar. |
 
-**Fazit Social:** Das Objekt existiert für die Plattform-Algorithmen nicht. Jede Sichtbarkeit ist eingekaufte Portal-Sichtbarkeit.
+**Fazit Social:** Ein angelegter, aber nicht bespielter Instagram-Account ist für den Algorithmus gleichbedeutend mit keinem Account. Jede Sichtbarkeit ist derzeit eingekaufte Portal-Sichtbarkeit.
 
 ### 3.5 Markt Porto Cervo (Kurzzeitvermietung)
 
@@ -114,8 +127,8 @@ Nachfrageseite 2026: Der Flughafen Olbia bedient 87 Ziele in 24 Ländern, neu da
 
 ## 5. Warum die Auslastung niedrig bleibt (Ursachenkette)
 
-1. **Nur wer auf Booking sucht, findet das Objekt.** Airbnb-, Vrbo- und Google-Nutzer sehen es nicht oder sehen die Nachbarn im selben Haus.
-2. **Wer es findet, sieht einen 8,4er-Eintrag mit generischem Namen.** Die Rarität „direkt am Strand, mit Parkplatz“ steht nicht im Titel und nicht im ersten Foto.
+1. **Die Inserate existieren, aber niemand außerhalb der Portal-Suche findet sie.** Airbnb-, Expedia- und Tripadvisor-Einträge sind nicht indexiert, die Website verlinkt keinen davon, und jeder Kanal trägt einen anderen Namen. Wer das Objekt einmal gesehen hat, kann es nicht wiederfinden.
+2. **Wer es findet, sieht einen 8,4er-Eintrag mit 5 bis 10 Bewertungen und generischem Namen.** Zu wenige Bewertungen sind der größte einzelne Ranking- und Conversion-Nachteil. Die Rarität „direkt am Strand, mit Parkplatz“ steht nicht im Titel und nicht im ersten Foto. Der Nachbar auf Airbnb wirbt mit „Luxurious Seafront · Starlink WiFi · Parking“.
 3. **Wer die Website besucht, findet keinen Preis und keinen Kalender.** Er geht zurück zu Booking oder zum Wettbewerber. Der Betreiber zahlt Provision oder verliert den Gast.
 4. **Niemand erinnert sich an das Objekt.** Ohne Social-Kanal, Newsletter und Wiederbucher-Angebot entsteht keine Stammkundschaft, obwohl Costa-Smeralda-Gäste überdurchschnittlich oft wiederkommen.
 5. **Die Nebensaison wird nicht aktiv verkauft.** Regatten, Golf, Wandern und Workation-Nachfrage laufen ohne passendes Angebot (Mindestaufenthalt, Monatspreis, Ausstattung) am Objekt vorbei.
@@ -142,6 +155,10 @@ Empfohlene Kernbotschaft: **„Die einzigen Apartments direkt auf dem Sand von C
 
 ### 7.1 Sofort (0 bis 30 Tage, geringe Kosten)
 
+**Ein Name, überall**
+1. Einen Namen festlegen (Empfehlung: „Sea & Beach Apartments Porto Cervo“, weil Booking und Tripadvisor ihn schon tragen) und ihn auf Website, Airbnb, Vrbo/Expedia, Instagram und Google identisch verwenden. Instagram-Handle entsprechend anpassen oder zumindest den Namen im Profil angleichen.
+2. Airbnb-, Vrbo- und Tripadvisor-Inserate von der Website und aus dem Instagram-Profil verlinken. Umgekehrt in jedem Inserat den Website-Namen nennen (Portale erlauben keine Links, aber den Namen).
+
 **Website**
 1. Eigene Domain registrieren (z. B. `seabeachapartments-portocervo.com` oder `calagranu-apartments.com`) und die Wix-Seite darauf umziehen. Kosten: Wix-Tarif plus Domain, ca. 20 € pro Monat.
 2. Seitentitel und Meta-Description korrigieren: „Sea & Beach Apartments Porto Cervo – Beachfront Apartments Cala Granu, Costa Smeralda“.
@@ -166,8 +183,9 @@ Empfohlene Kernbotschaft: **„Die einzigen Apartments direkt auf dem Sand von C
 3. Airbnb-Titel mit 32 Zeichen maximal nutzen: „Beachfront Cala Granu · Terrace · Parking“.
 
 **Social Media**
-1. Instagram-Business-Account und Facebook-Seite anlegen, mit Website verlinken, Standort „Cala Granu Beach“ und „Porto Cervo“ setzen.
+1. Bestehenden Instagram-Account @beach_apartments_porto_cervo auf Business umstellen, Profilname an den Objektnamen angleichen, Bio mit „Beachfront · Cala Granu · Porto Cervo“ und Website-Link, Standort „Cala Granu Beach“ und „Porto Cervo“ setzen. Facebook-Seite anlegen und mit Instagram verknüpfen.
 2. Zwanzig Startbeiträge aus vorhandenem Material (Fotos, kurze Clips), damit das Profil nicht leer wirkt.
+3. Kooperationspost mit @calagranubeach (2.456 Follower, direkt vor der Tür) als erster Reichweitenhebel.
 3. Google-Unternehmensprofil für die Verwaltungsfirma anlegen (Ferienwohnungen selbst sind nicht zulässig, eine Vermietungsagentur schon).
 
 ### 7.2 Aufbau (30 bis 90 Tage)
@@ -176,7 +194,7 @@ Empfohlene Kernbotschaft: **„Die einzigen Apartments direkt auf dem Sand von C
 2. **Google Vacation Rentals** über den Channel-Manager anbinden. Kostenloser Kanal, Gäste landen direkt auf der eigenen Buchungsseite.
 3. **Dynamische Preise** (PriceLabs oder Beyond, ab ca. 20 € pro Monat) mit Regeln: Regattawochen +25 bis 40 %, Lücken von ein bis drei Nächten in der Nebensaison automatisch rabattiert, Last-Minute ab 14 Tagen.
 4. **Professionelles Foto- und Videoshooting** (Drohne, Innen, Strand, Golden Hour). Budget 800 bis 1.500 €. Einmalige Investition, die alle Kanäle trägt.
-5. **Bewertungsprozess:** Nachricht am Abreisetag mit direktem Link, Ziel: jede zweite Buchung bewertet. Bewertung 8,4 auf 9,0 heben, dafür konkret: Willkommenskorb mit sardischen Produkten, Strandset (Tücher, Schirm, Kühltasche), Check-in-Guide mit Restaurant- und Strandtipps, WLAN-Geschwindigkeit messen und nennen.
+5. **Bewertungsprozess (wichtigster Hebel):** Mit etwa 5 bis 10 Booking-Bewertungen und 0 auf Tripadvisor ist Bewertungsvolumen der Engpass. Nachricht am Abreisetag mit direktem Link, Ziel: jede zweite Buchung bewertet, Ziel 30 Booking-Bewertungen bis Ende Saison 2027. Frühere Gäste per Mail um eine Tripadvisor- oder Google-Bewertung bitten. Bewertung 8,4 auf 9,0 heben, dafür konkret: Willkommenskorb mit sardischen Produkten, Strandset (Tücher, Schirm, Kühltasche), Check-in-Guide mit Restaurant- und Strandtipps, WLAN-Geschwindigkeit messen und nennen.
 6. **Beach-Club-Kooperation:** Gästetarif für Liegen, reservierte erste Reihe für Direktbucher, gegenseitige Verlinkung. Der Beach Club hat die Reichweite, die dem Objekt fehlt.
 7. **Content-Rhythmus Instagram:** In der Saison drei Reels pro Woche, außerhalb ein bis zwei. Feste Formate:
    - „50 Schritte“: ungeschnittener Weg Terrasse bis Wasser.
@@ -212,7 +230,9 @@ Empfohlene Kernbotschaft: **„Die einzigen Apartments direkt auf dem Sand von C
 | Jahresauslastung | Markt Ø 40,9 %, Objekt unbekannt | 52 bis 55 % | 58 bis 62 % |
 | Auslastung Mai/Juni/Sept./Okt. | unbekannt | 45 % | 60 % |
 | Booking-Bewertung | 8,4 | 9,0 | 9,2 |
-| Airbnb-Bewertung | kein Inserat bekannt | 4,8 mit 20 Bewertungen | Guest Favorite (4,9) |
+| Booking-Bewertungen (Anzahl) | ca. 5 bis 10 | 30 | 60 |
+| Airbnb-Bewertung | Inserat aktiv, Wert unbekannt | 4,8 mit 20 Bewertungen | Guest Favorite (4,9) |
+| Tripadvisor-Bewertungen | 0 | 10 | 25 |
 | Direktbuchungsanteil | 0 % | 20 % | 35 % |
 | Antwortzeit Anfragen | unbekannt | unter 1 Stunde | unter 30 Minuten |
 | Instagram-Follower | 0 | 1.500 | 4.000 |
@@ -230,7 +250,7 @@ Ein Beispiel für die Hebelwirkung: Bei einem Nachtpreis von 400 € in der Nebe
 | 2 | Booking-Inserat: Titel, Fotos, Ausstattung, zwei Raten, Bewertungsantworten | gering | hoch |
 | 3 | Fotoshooting mit Drohne | mittel | hoch, trägt alle Kanäle |
 | 4 | Channel-Manager mit Buchungsengine und Google Vacation Rentals | mittel | hoch, macht Direktbuchung möglich |
-| 5 | Airbnb und Vrbo vollständig und synchron | gering | mittel bis hoch |
+| 5 | Airbnb und Vrbo vollständig, synchron und unter einem Namen | gering | mittel bis hoch |
 | 6 | Instagram und Facebook aufbauen, Beach-Club-Kooperation | laufend | mittel, langfristig hoch |
 | 7 | Dynamische Preise und Nebensaison-Pakete | gering | hoch in Nebensaison |
 | 8 | Newsletter und Wiederbucher-Programm | gering | mittel, wächst mit jeder Saison |
@@ -240,8 +260,10 @@ Ein Beispiel für die Hebelwirkung: Bei einem Nachtpreis von 400 € in der Nebe
 
 ## 10. Offene Punkte zur Verifizierung durch den Betreiber
 
-- Anzahl und Verteilung der Booking-Bewertungen, Genius-Status, Antwortquote, aktuelle Belegung 2026.
-- Ob die Airbnb- und Vrbo-Inserate in der Residenz eigene oder fremde sind.
+- Genaue Anzahl der Booking-Bewertungen (Schätzung 5 bis 10), Genius-Status, Antwortquote, aktuelle Belegung 2026.
+- Airbnb-Inserat 42370101: Bewertung, Anzahl Bewertungen, Superhost, Instant Book, Antwortzeit, Fotoanzahl.
+- Instagram @beach_apartments_porto_cervo: Follower, Beitragszahl, Datum des letzten Beitrags.
+- Expedia/Vrbo-Inserat h59981302: Bewertung, Anzahl Bewertungen, Premium-Host-Status.
 - Anzahl der tatsächlich vermieteten Einheiten (steuerliche Schwelle ab der dritten Einheit).
 - Ob CIN und IUN vorliegen und in den Inseraten stehen.
 - Zustand von WLAN, Heizung und Klimaanlage für Ganzjahresvermietung.
@@ -253,8 +275,12 @@ Ein Beispiel für die Hebelwirkung: Bei einem Nachtpreis von 400 € in der Nebe
 - Booking.com: Sea & Beach Apartments Porto Cervo Costa Smeralda – https://www.booking.com/hotel/it/50-passi-al-mare-appartamento-porto-cervo.html
 - Website: https://seasmeralda.wixsite.com/beachapartments (Unterseiten „Bonbonnière“, „Adjacent Residences“, „Best Places“)
 - FeWo-direkt: Zimmer-Wohnung Sea Smeralda – https://www.fewo-direkt.de/ferienwohnung-ferienhaus/p6541091
-- Airbnb: Appartamento Sun – Cala Granu – https://www.airbnb.com.sg/rooms/1076718812566845218
-- Tripadvisor: Sea Smeralda Residence – Apartments – https://www.tripadvisor.com/Hotel_Review-g194856-d15686373-Reviews-Sea_Smeralda_Residence_Apartments-Porto_Cervo_Arzachena_Province_of_Olbia_Tempio_Sard.html
+- Airbnb (eigenes Inserat): https://www.airbnb.it/rooms/42370101
+- Airbnb (Wettbewerb in derselben Bucht): Appartamento Sun – Cala Granu – https://www.airbnb.com.sg/rooms/1076718812566845218 ; Luxurious Seafront · Starlink WiFi · Parking – https://www.airbnb.co.in/rooms/1418884758713674600
+- Expedia / Vrbo: Familienferienwohnung mit Meerblick – https://www.expedia.com/Arzachena-Hotels-Familienferienwohnung-Mit-Meerblick-Porto-Cervo-Costa-Smeralda.h59981302.Hotel-Information
+- Instagram: https://www.instagram.com/beach_apartments_porto_cervo/ ; Strand: https://www.instagram.com/calagranubeach/
+- Tripadvisor: Sea & Beach Apartments Porto Cervo Costa Smeralda – https://www.tripadvisor.it/Hotel_Review-g194856-d15686373-Reviews-Sea_Beach_Apartments_Porto_Cervo_Costa_Smeralda-Porto_Cervo_Arzachena_Province_of_Olb.html
+- Trivago (10 Bewertungen): https://www.trivago.it/it/oar/intera-casa-appartamento-sea-beach-apartments-porto-cervo-costa-smeralda
 - Aggregatoren: https://www.a-hotel.com/italy/169054-porto-cervo/6784986-1-sea-beach-apartments-porto-cervo-costa-smeralda/ , https://sea-beach-apartments-costa-smeralda.portocervohotels.net/en/ , https://www.holidaycheck.de/hi/sea-beach-apartments-porto-cervo-costa-smeralda/2df72a76-203a-4595-a4ee-a42f4ccfd7a6
 - Marktdaten: AirROI Porto Cervo 2026 – https://www.airroi.com/airbnb-data/italy/sardinia/porto-cervo ; Investropa Sardinia Airbnb 2026 – https://investropa.com/blogs/news/sardinia-airbnb
 - Wettbewerb: Cala del Faro – Casa di Mare – https://www.booking.com/hotel/it/cala-del-faro-porto-cervo.html
